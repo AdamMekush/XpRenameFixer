@@ -2,3 +2,5 @@ name: XpRenameFixer
 version: '1.0.0'
 main: me.slide.xprenamefixer.XpRenameFixer
 api-version: '1.13'
+author: Slide_AM
+folia-supported: true
